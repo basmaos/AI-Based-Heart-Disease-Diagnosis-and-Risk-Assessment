@@ -52,5 +52,5 @@ The models are designed with a strong emphasis on accuracy, interpretability.
 	- 	The dataset file is named heart_disease_data.csv.
 	- 	For additional details about the source, refer to the Dataset.txt file.
 5.	Run the code:
-	-       Open and execute the notebook code.ipynb using Jupyter Notebook.
-        -       Review all implemented models, their performance, and visualized results within the notebook.
+ -   Open and execute the notebook code.ipynb using Jupyter Notebook.
+ -   Review all implemented models, their performance, and visualized results within the notebook.
